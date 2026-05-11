@@ -1,0 +1,9 @@
+﻿step,rows
+start_rows,15644
+drop_duplicates_SECID_TRADEDATE,0
+drop_critical_missing,122
+drop_bad_price,0
+drop_bad_market_values,0
+drop_after_maturity,0
+drop_fixed_missing_yield,0
+final_rows_after_core_cleaning,15522
