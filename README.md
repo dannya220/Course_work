@@ -57,8 +57,7 @@
 ├── datalens/
 │   ├── dashboard_links.md
 │   ├── dashboard_structure.md
-│   ├── calculated_fields.md
-│   └── screenshots/
+│   └── calculated_fields.md
 │
 ├── report/
 │   └── figures/
